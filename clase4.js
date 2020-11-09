@@ -31,7 +31,7 @@ function cuadrado() {
 
 // list.pop(11)
 // console.log(list)
-
+// push 
 // aplicaciones de for con objetos 
 const userList =[
     {
@@ -152,4 +152,5 @@ function calificacion(nota) {
         return 'nota no valida';
     }
 }
+
 
