@@ -93,5 +93,5 @@ console.log(random)
 // buenas practicas a la hora de escribir funciones 
 
 
-// Funcion IsNaN .LENGTH Para un string, toLowerCase() , toUperCase()
+// Funcion IsNaN .LENGTH Para un string, toLowerCase() , toUpperCase()
 
